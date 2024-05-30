@@ -2,13 +2,13 @@
 
 Easily configure the Server Links button introduced in 1.21 for your server
 
-Example config
+### Example config
 ```toml
 [links]
 	"known_server_link.website" = "https://example.com"
 ```
 
-Generic server link types
+### Generic server link types
 | Translation Key                        | Display Name         |
 | -------------------------------------- | -------------------- |
 | known_server_link.announcements        | Announcements        |
