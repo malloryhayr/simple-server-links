@@ -1,4 +1,4 @@
-# Simple Server Links
+# 🔗 Simple Server Links
 
 Easily configure the Server Links button introduced in 1.21 for your server
 
