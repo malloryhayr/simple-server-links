@@ -9,5 +9,6 @@ public class SimpleServerLinksConfig extends ReflectiveConfig {
     @Comment("Check the README for a list of generic link types.")
     public final TrackedValue<ValueMap<String>> links = this.map("")
             .put("known_server_link.website", "https://example.com")
+            .put("custom.server_link.wiki", "https://minecraft.wiki")
             .build();
 }

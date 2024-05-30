@@ -8,7 +8,8 @@ Easily configure the Server Links button introduced in 1.21 for your server
 ## Example config
 ```toml
 [links]
-	"known_server_link.website" = "https://example.com"
+    "known_server_link.website" = "https://example.com"
+    "custom.server_link.wiki" = "https://minecraft.wiki"
 ```
 
 
