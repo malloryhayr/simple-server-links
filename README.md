@@ -2,13 +2,17 @@
 
 Easily configure the Server Links button introduced in 1.21 for your server
 
-### Example config
+## Demo Video
+[![](https://github.com/malloryhayr/simple-server-links/assets/22878174/523fac02-636f-4a22-aadc-050a8cff3c6d)](https://files.farlands.cafe/media_attachments/files/112/527/712/368/000/196/original/baf7f42f11cd32e3.mp4)
+
+## Example config
 ```toml
 [links]
 	"known_server_link.website" = "https://example.com"
 ```
 
-### Generic server link types
+
+## Generic server link types
 | Translation Key                        | Display Name         |
 | -------------------------------------- | -------------------- |
 | known_server_link.announcements        | Announcements        |
